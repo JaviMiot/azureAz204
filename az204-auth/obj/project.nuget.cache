@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dczAd/LsDHDHCy2st39Lc3Wa07DlQE7Ybil8lNU2TZ3NT7qtb/PijnY1dqwpRpFb9Moo4JhHHgMsf7+keriZg==",
+  "success": true,
+  "projectFilePath": "/home/snuc/Documents/myrepo/AzureRepo/az204-auth/az204-auth.csproj",
+  "expectedPackageFiles": [
+    "/home/snuc/.nuget/packages/microsoft.identity.client/4.42.1/microsoft.identity.client.4.42.1.nupkg.sha512"
+  ],
+  "logs": []
+}

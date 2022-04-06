@@ -1,0 +1,17 @@
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/bin/Debug/net6.0/az204-auth
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/bin/Debug/net6.0/az204-auth.deps.json
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/bin/Debug/net6.0/az204-auth.runtimeconfig.json
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/bin/Debug/net6.0/az204-auth.dll
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/bin/Debug/net6.0/az204-auth.pdb
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/az204-auth.csproj.AssemblyReference.cache
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/az204-auth.GeneratedMSBuildEditorConfig.editorconfig
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/az204-auth.AssemblyInfoInputs.cache
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/az204-auth.AssemblyInfo.cs
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/az204-auth.csproj.CoreCompileInputs.cache
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/az204-auth.csproj.CopyComplete
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/az204-auth.dll
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/refint/az204-auth.dll
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/az204-auth.pdb
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/az204-auth.genruntimeconfig.cache
+/home/snuc/Documents/myrepo/AzureRepo/az204-auth/obj/Debug/net6.0/ref/az204-auth.dll
